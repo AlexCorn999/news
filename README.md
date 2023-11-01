@@ -73,7 +73,6 @@ func main() {
 [URL] https://eadaily.com/ru/news/2023/11/01/ukraina-sosredotochila-120-tysyachnuyu-gruppirovku-na-granice-s-belorussiey-molostov
 ```
 
-```
 
 # example 2
 
