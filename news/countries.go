@@ -1,0 +1,36 @@
+package news
+
+type Country string
+
+const (
+	Australia         Country = "au"
+	Brazil            Country = "br"
+	Canada            Country = "ca"
+	China             Country = "cn"
+	Egypt             Country = "eg"
+	France            Country = "fr"
+	Germany           Country = "de"
+	Greece            Country = "gr"
+	HongKong          Country = "hk"
+	India             Country = "in"
+	Ireland           Country = "ie"
+	Israel            Country = "il"
+	Italy             Country = "it"
+	Japan             Country = "jp"
+	Netherlands       Country = "nl"
+	Norway            Country = "no"
+	Pakistan          Country = "pk"
+	Peru              Country = "pe"
+	Philippines       Country = "ph"
+	Portugal          Country = "pt"
+	Romania           Country = "ro"
+	RussianFederation Country = "ru"
+	Singapore         Country = "sg"
+	Spain             Country = "es"
+	Sweden            Country = "se"
+	Switzerland       Country = "ch"
+	Taiwan            Country = "tw"
+	Ukraine           Country = "ua"
+	UnitedKingdom     Country = "gb"
+	UnitedStates      Country = "us"
+)
